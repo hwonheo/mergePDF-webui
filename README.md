@@ -2,6 +2,8 @@
 
 Easy PDF Merger is a simple web application built with Streamlit that allows users to merge multiple PDF files into a single PDF file. This tool is user-friendly and requires no prior experience with PDF merging software.
 
+https://mergepdf-easy.streamlit.app/
+
 ## Features
 
 - **Upload Multiple PDFs**: Users can select and upload multiple PDF files.
